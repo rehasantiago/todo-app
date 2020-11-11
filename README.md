@@ -1,5 +1,5 @@
-# Admin Panel <br/>
-The application has been created with MERN stack. It consists of an admin panel which shows the list of user along with a option to add a new user. The admin also has the ability to disable a user. There is a common login form for admin and the user.<br/>
+# Todo App <br/>
+The application has been created with MERN stack. It can add, update and delete users. Also, each user can add their todos<br/>
 
 ## 1.Schema for the database table <br>
 ![Schema](/images/schema.png)
@@ -12,4 +12,3 @@ The application has been created with MERN stack. It consists of an admin panel 
 5.`npm install`:- Install all the dependencies <br/>
 6.`npm start`:- Start the client <br/>
 
-# todo-app
