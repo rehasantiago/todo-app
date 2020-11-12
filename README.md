@@ -1,5 +1,6 @@
 # Todo App <br/>
 The application has been created with MERN stack. It can add, update and delete users. Also, each user can add their todos<br/>
+To add todos for a user click on Go to todos<br/>
 
 ## 1.Schema for the database table <br>
 ![Schema](/images/schema.png)
